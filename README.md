@@ -16,10 +16,10 @@ Sinta-se à vontade para explorar meus projetos e conectar-se!
 
 
 
-<a href="https://www.instagram.com/SEU_USUARIO" target="_blank">
+<a href="https://www.instagram.com/teussxz_7" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/SEU_USUARIO" target="_blank">
+<a href="https://www.linkedin.com/in/Mateus Leite" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
