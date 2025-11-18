@@ -6,7 +6,7 @@ Olá! Sou Mateus da Silva Leite, um desenvolvedor de 19 anos com sede em São Pa
 
 Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na Faculdade das Américas (FAM), focado em construir uma base sólida para o mercado de TI.
 
-Sou um entusiasta de Tecnologia e apaixonado pelo mundo do código. Este perfil serve como meu portfólio de aprendizado, onde exploro:
+Sou um entusiasta de Tecnologia e apaixonado pelo mundo do código. Este perfil serve como meu portfólio de aprendizado.
 
 Linguagens Focais: Java (POO), SQL.
 
