@@ -64,7 +64,7 @@ Sinta-se à vontade para explorar meus projetos e conectar-se!
 
 <tr>
   <td align="center" style="background-color:#212121; padding:15px; border-radius:10px;">
-    <strong>Organização</strong>
+    <strong>Vontade de aprender</strong>
   </td>
   <td align="center" style="background-color:#212121; padding:15px; border-radius:10px;">
     <strong>Atenção aos Detalhes</strong>
